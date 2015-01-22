@@ -28,7 +28,7 @@ namespace TestBLL
         public PeopleSex Sex { get; set; } 
 
         /// <summary>
-        /// 生日
+        /// 生日日期
         /// </summary>
         public DateTime Birthday { get; set; }
     }
